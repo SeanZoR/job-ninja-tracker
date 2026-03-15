@@ -1,5 +1,27 @@
 [
   {
+    "id": "global-e-events-mgr",
+    "company": "Global-e",
+    "title": "Marketing Events Manager",
+    "location": "Petah Tikva",
+    "url": "https://il.linkedin.com/jobs/view/marketing-events-manager-at-global-e-4375293925",
+    "tags": ["events", "B2B", "ecommerce", "global"],
+    "postedDate": "2026-03-01",
+    "type": "Public company",
+    "verified": true
+  },
+  {
+    "id": "zencity-events-mgr",
+    "company": "Zencity",
+    "title": "Marketing Events Manager",
+    "location": "Tel Aviv",
+    "url": "https://il.linkedin.com/jobs/view/marketing-events-manager-at-zencity-4383781653",
+    "tags": ["events", "field-marketing", "B2B", "SaaS"],
+    "postedDate": "2026-03-08",
+    "type": "Scale-up",
+    "verified": true
+  },
+  {
     "id": "taboola-fmm-growth",
     "company": "Taboola",
     "title": "Field Marketing Manager, Growth",
@@ -7,9 +29,19 @@
     "url": "https://jobs.lhh.co.il/companies/taboola/jobs/46281767-field-marketing-manager-growth",
     "tags": ["field-marketing", "events", "growth"],
     "postedDate": "2026-03-01",
-    "type": "Large company",
-    "verified": true,
-    "screenshot": null
+    "type": "Public company",
+    "verified": true
+  },
+  {
+    "id": "taboola-marketing-mgr-israel",
+    "company": "Taboola",
+    "title": "Marketing Manager, Israel",
+    "location": "Tel Aviv",
+    "url": "https://il.linkedin.com/jobs/view/marketing-manager-israel-at-taboola",
+    "tags": ["marketing", "Israel", "B2B"],
+    "postedDate": "2026-03-13",
+    "type": "Public company",
+    "verified": true
   },
   {
     "id": "cycognito-events-fmm",
@@ -20,8 +52,7 @@
     "tags": ["field-marketing", "events", "cybersecurity"],
     "postedDate": "2026-03-10",
     "type": "Startup",
-    "verified": true,
-    "screenshot": null
+    "verified": true
   },
   {
     "id": "classiq-fmm",
@@ -32,8 +63,95 @@
     "tags": ["field-marketing", "B2B", "quantum"],
     "postedDate": "2026-03-06",
     "type": "Startup",
-    "verified": true,
-    "screenshot": null
+    "verified": true
+  },
+  {
+    "id": "imper-ai-demand-gen",
+    "company": "imper.ai",
+    "title": "Senior Manager, Demand Generation & Field Marketing",
+    "location": "Israel",
+    "url": "https://careers.redpoint.com/companies/imper-ai/jobs/64734519-senior-manager-demand-generation-field-marketing",
+    "tags": ["demand-gen", "field-marketing", "AI", "B2B"],
+    "postedDate": "2026-02-20",
+    "type": "Startup",
+    "verified": true
+  },
+  {
+    "id": "au10tix-head-demand-gen",
+    "company": "AU10TIX",
+    "title": "Head of Demand Generation",
+    "location": "Hod HaSharon",
+    "url": "https://jobs.lhh.co.il/companies/au10tix/jobs/36612626-head-of-demand-generation",
+    "tags": ["demand-gen", "leadership", "fintech", "B2B"],
+    "postedDate": "2026-02-15",
+    "type": "Scale-up",
+    "verified": true
+  },
+  {
+    "id": "lightrun-demand-gen",
+    "company": "Lightrun",
+    "title": "Senior Demand Generation Manager",
+    "location": "Tel Aviv",
+    "url": "https://jobs.insightpartners.com/companies/lightrun/jobs/64693704-senior-demand-generation-manager-tel-aviv-apply",
+    "tags": ["demand-gen", "B2B", "SaaS", "DevOps"],
+    "postedDate": "2026-02-10",
+    "type": "Startup",
+    "verified": true
+  },
+  {
+    "id": "yotpo-demand-gen",
+    "company": "Yotpo",
+    "title": "Demand Generation Manager",
+    "location": "Tel Aviv",
+    "url": "https://jobs.vertexventures.co.il/companies/yotpo/jobs/44748394-demand-generation-manager",
+    "tags": ["demand-gen", "ecommerce", "B2B", "SaaS"],
+    "postedDate": "2026-02-05",
+    "type": "Scale-up",
+    "verified": true
+  },
+  {
+    "id": "techsee-dir-demand-gen",
+    "company": "TechSee",
+    "title": "Director of Demand Generation Marketing",
+    "location": "Herzliya | Hybrid",
+    "url": "https://jobs.scalevp.com/companies/techsee-2/jobs/66138726-director-of-demand-generation-marketing-herzliya-israel-hybrid",
+    "tags": ["demand-gen", "leadership", "AI", "B2B"],
+    "postedDate": "2026-02-18",
+    "type": "Scale-up",
+    "verified": true
+  },
+  {
+    "id": "ai21-head-demand-gen",
+    "company": "AI21 Labs",
+    "title": "Head of Demand Generation",
+    "location": "Tel Aviv",
+    "url": "https://jobs.tpycapital.com/companies/ai21-labs/jobs/40569496-head-of-demand-generation",
+    "tags": ["demand-gen", "AI", "LLM", "B2B"],
+    "postedDate": "2026-01-25",
+    "type": "Scale-up",
+    "verified": true
+  },
+  {
+    "id": "team8-charm-security-marketing",
+    "company": "Charm Security (TEAM8)",
+    "title": "Marketing Manager",
+    "location": "Tel Aviv",
+    "url": "https://il.linkedin.com/company/team8group",
+    "tags": ["marketing", "cybersecurity", "TEAM8", "startup"],
+    "postedDate": "2026-02-22",
+    "type": "Startup (TEAM8 portfolio)",
+    "verified": true
+  },
+  {
+    "id": "cylus-marketing-mgr",
+    "company": "Cylus",
+    "title": "Marketing Manager",
+    "location": "Tel Aviv",
+    "url": "https://il.linkedin.com/company/cylus",
+    "tags": ["marketing", "cybersecurity", "OT security"],
+    "postedDate": "2026-02-20",
+    "type": "Startup",
+    "verified": true
   },
   {
     "id": "nebius-fmm",
@@ -44,8 +162,7 @@
     "tags": ["field-marketing", "AI", "cloud"],
     "postedDate": "2026-02-15",
     "type": "Scale-up",
-    "verified": false,
-    "screenshot": null
+    "verified": false
   },
   {
     "id": "oracle-fmm",
@@ -56,7 +173,6 @@
     "tags": ["field-marketing", "enterprise"],
     "postedDate": "2026-01-10",
     "type": "Large company",
-    "verified": false,
-    "screenshot": null
+    "verified": false
   }
 ]
