@@ -5,13 +5,7 @@
     "title": "Events Manager",
     "location": "Tel Aviv",
     "url": "https://jobs.vertexventures.co.il/companies/yotpo/jobs/70041055-events-manager",
-    "tags": [
-      "events-manager",
-      "marketing-events",
-      "martech",
-      "field-marketing",
-      "scale-up"
-    ],
+    "tags": ["events-manager", "marketing-events", "martech", "field-marketing", "scale-up"],
     "postedDate": "2026-03-14",
     "type": "Scale-up",
     "verified": true
@@ -22,12 +16,7 @@
     "title": "Senior Demand Generation Manager",
     "location": "Tel Aviv",
     "url": "https://jobs.insightpartners.com/companies/lightrun/jobs/64693704-senior-demand-generation-manager-tel-aviv-apply",
-    "tags": [
-      "demand-generation",
-      "saas",
-      "pipeline",
-      "startup"
-    ],
+    "tags": ["demand-generation", "saas", "pipeline", "startup"],
     "postedDate": "2026-03-12",
     "type": "Startup",
     "verified": true
@@ -38,13 +27,7 @@
     "title": "Senior Product Marketing Manager - AI",
     "location": "Tel Aviv",
     "url": "https://pitchmeai.com/jobs/walkme/senior-product-marketing-manager-ai-bxmz72louc",
-    "tags": [
-      "product-marketing",
-      "saas",
-      "ai",
-      "gtm",
-      "large-company"
-    ],
+    "tags": ["product-marketing", "saas", "ai", "gtm", "large-company"],
     "postedDate": "2026-03-10",
     "type": "Large company",
     "verified": true
@@ -55,12 +38,7 @@
     "title": "Senior Marketing and AI Operations Manager",
     "location": "Herzliya",
     "url": "https://www.papayaglobal.com/careers/",
-    "tags": [
-      "marketing-operations",
-      "saas",
-      "hr-tech",
-      "scale-up"
-    ],
+    "tags": ["marketing-operations", "saas", "hr-tech", "scale-up"],
     "postedDate": "2026-03-10",
     "type": "Scale-up",
     "verified": true
@@ -71,12 +49,7 @@
     "title": "Marketing Events Manager",
     "location": "Tel Aviv",
     "url": "https://zencity.io/careers/co/marketing/67.760/marketing-events-manager/all/",
-    "tags": [
-      "marketing-events",
-      "events-manager",
-      "saas",
-      "startup"
-    ],
+    "tags": ["marketing-events", "events-manager", "saas", "startup"],
     "postedDate": "2026-03-08",
     "type": "Startup",
     "verified": true
@@ -87,13 +60,20 @@
     "title": "Field Marketing Manager",
     "location": "Tel Aviv",
     "url": "https://jobs.vertexventures.co.il/companies/classiq/jobs/69416474-field-marketing-manager",
-    "tags": [
-      "field-marketing",
-      "B2B",
-      "quantum"
-    ],
+    "tags": ["field-marketing", "B2B", "quantum"],
     "postedDate": "2026-03-06",
     "type": "Startup",
+    "verified": true
+  },
+  {
+    "id": "mixpanel-associate-field-marketing-manager-israel",
+    "company": "Mixpanel",
+    "title": "Associate Field Marketing Manager - Israel",
+    "location": "Tel Aviv",
+    "url": "https://builtin.com/job/associate-field-marketing-manager-israel/4411427",
+    "tags": ["field-marketing", "analytics", "saas", "israel", "scale-up"],
+    "postedDate": "2026-03-05",
+    "type": "Scale-up",
     "verified": true
   },
   {
@@ -102,13 +82,7 @@
     "title": "Marketing Project Manager (temporary)",
     "location": "Tel Aviv",
     "url": "https://www.etoro.com/about/careers/position/6d.46c/",
-    "tags": [
-      "marketing-manager",
-      "project-manager",
-      "fintech",
-      "israel",
-      "large-company"
-    ],
+    "tags": ["marketing-manager", "project-manager", "fintech", "israel", "large-company"],
     "postedDate": "2026-03-04",
     "type": "Large company",
     "verified": true
@@ -119,12 +93,7 @@
     "title": "Distribution & Growth Marketing Manager",
     "location": "Tel Aviv",
     "url": "https://zencity.io/careers/co/marketing/6A.26F/distribution-growth-marketing-manager/all/",
-    "tags": [
-      "growth-marketing",
-      "demand-generation",
-      "saas",
-      "startup"
-    ],
+    "tags": ["growth-marketing", "demand-generation", "saas", "startup"],
     "postedDate": "2026-03-02",
     "type": "Startup",
     "verified": true
@@ -135,12 +104,7 @@
     "title": "Marketing Events Manager",
     "location": "Petah Tikva",
     "url": "https://il.linkedin.com/jobs/view/marketing-events-manager-at-global-e-4375293925",
-    "tags": [
-      "events",
-      "B2B",
-      "ecommerce",
-      "global"
-    ],
+    "tags": ["events", "B2B", "ecommerce", "global"],
     "postedDate": "2026-03-01",
     "type": "Public company",
     "verified": true
@@ -151,11 +115,7 @@
     "title": "Field Marketing Manager, Growth",
     "location": "Tel Aviv | Hybrid",
     "url": "https://jobs.lhh.co.il/companies/taboola/jobs/46281767-field-marketing-manager-growth",
-    "tags": [
-      "field-marketing",
-      "events",
-      "growth"
-    ],
+    "tags": ["field-marketing", "events", "growth"],
     "postedDate": "2026-03-01",
     "type": "Public company",
     "verified": true
@@ -166,12 +126,7 @@
     "title": "Marketing Operations Manager",
     "location": "Hod HaSharon",
     "url": "https://il.linkedin.com/jobs/view/marketing-operations-manager-at-au10tix-4372467889",
-    "tags": [
-      "marketing-operations",
-      "demand-generation",
-      "saas",
-      "scale-up"
-    ],
+    "tags": ["marketing-operations", "demand-generation", "saas", "scale-up"],
     "postedDate": "2026-03-01",
     "type": "Scale-up",
     "verified": true
@@ -182,13 +137,7 @@
     "title": "Customer Marketing Manager (Maternity Leave Replacement)",
     "location": "Tel Aviv",
     "url": "https://www.catonetworks.com/careers/careers-post/4802336101/",
-    "tags": [
-      "customer marketing",
-      "marketing manager",
-      "cloud security",
-      "SASE",
-      "maternity cover"
-    ],
+    "tags": ["customer marketing", "marketing manager", "cloud security", "SASE", "maternity cover"],
     "postedDate": "2026-03",
     "type": "Scale-up",
     "verified": true
@@ -199,13 +148,7 @@
     "title": "Marketing Operations Manager-Temp (Maternity Leave Replacement)",
     "location": "Petah Tikva",
     "url": "https://il.linkedin.com/jobs/view/marketing-operations-manager-temp-maternity-leave-replacement-at-cellebrite-4356440921",
-    "tags": [
-      "marketing operations",
-      "marketing manager",
-      "digital investigations",
-      "martech",
-      "maternity cover"
-    ],
+    "tags": ["marketing operations", "marketing manager", "digital investigations", "martech", "maternity cover"],
     "postedDate": "2026-03",
     "type": "Large company",
     "verified": true
@@ -216,13 +159,7 @@
     "title": "Director of Customer Marketing",
     "location": "Tel Aviv",
     "url": "https://il.linkedin.com/jobs/view/director-customer-marketing-at-radware-4381614334",
-    "tags": [
-      "customer marketing",
-      "marketing director",
-      "cybersecurity",
-      "DDoS",
-      "cloud security"
-    ],
+    "tags": ["customer marketing", "marketing director", "cybersecurity", "DDoS", "cloud security"],
     "postedDate": "2026-03",
     "type": "Large company",
     "verified": true
@@ -233,13 +170,7 @@
     "title": "Senior Global Marketing Programs Manager",
     "location": "Tel Aviv",
     "url": "https://il.linkedin.com/jobs/view/senior-global-marketing-programs-manager-at-hibob-4361101353",
-    "tags": [
-      "marketing-manager",
-      "global-marketing",
-      "saas",
-      "hr-tech",
-      "scale-up"
-    ],
+    "tags": ["marketing-manager", "global-marketing", "saas", "hr-tech", "scale-up"],
     "postedDate": "2026-02-25",
     "type": "Scale-up",
     "verified": true
@@ -250,13 +181,7 @@
     "title": "Events Program Manager (Maternity Leave Replacement - 8 months)",
     "location": "Tel Aviv, Israel",
     "url": "https://il.linkedin.com/jobs/view/events-program-manager-maternity-leave-replacement-8-months-at-akamai-technologies-4377524321",
-    "tags": [
-      "events",
-      "marketing",
-      "program manager",
-      "hybrid",
-      "Israel"
-    ],
+    "tags": ["events", "marketing", "program manager", "hybrid", "Israel"],
     "postedDate": "2026-02-24",
     "type": "Large company",
     "verified": true
@@ -267,13 +192,7 @@
     "title": "Senior Product Marketing Manager",
     "location": "Herzliya",
     "url": "https://builtin.com/jobs/mena/israel/marketing/search/marketing",
-    "tags": [
-      "product-marketing",
-      "adtech",
-      "martech",
-      "scale-up",
-      "in-office"
-    ],
+    "tags": ["product-marketing", "adtech", "martech", "scale-up", "in-office"],
     "postedDate": "2026-02-20",
     "type": "Scale-up",
     "verified": true
@@ -284,12 +203,7 @@
     "title": "Senior Product Marketing Manager, DevOps",
     "location": "Netanya/Tel Aviv",
     "url": "https://join.jfrog.com/job/7457391-senior-product-marketing-manager-devops/",
-    "tags": [
-      "product-marketing",
-      "devops",
-      "saas",
-      "large-company"
-    ],
+    "tags": ["product-marketing", "devops", "saas", "large-company"],
     "postedDate": "2026-02-15",
     "type": "Large company",
     "verified": true
@@ -300,12 +214,7 @@
     "title": "Sr. Product Marketing Manager, Data Security Platform",
     "location": "Tel Aviv",
     "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/sr-product-marketing-manager-data-security-platform/47263/91405627920",
-    "tags": [
-      "product marketing",
-      "data security",
-      "cybersecurity",
-      "PMM"
-    ],
+    "tags": ["product marketing", "data security", "cybersecurity", "PMM"],
     "postedDate": "2026-02",
     "type": "Large company",
     "verified": true
@@ -316,13 +225,7 @@
     "title": "Events and Field Marketing Manager",
     "location": "Tel Aviv",
     "url": "https://il.linkedin.com/jobs/view/events-and-field-marketing-manager-at-cycognito-4343237201",
-    "tags": [
-      "field marketing",
-      "events",
-      "demand generation",
-      "cybersecurity",
-      "ASM"
-    ],
+    "tags": ["field marketing", "events", "demand generation", "cybersecurity", "ASM"],
     "postedDate": "2026-02",
     "type": "Startup",
     "verified": true
@@ -333,12 +236,7 @@
     "title": "Wolt Benefits B2B Marketing Manager",
     "location": "Tel Aviv",
     "url": "https://job-boards.greenhouse.io/wolt/jobs/7518920",
-    "tags": [
-      "marketing-manager",
-      "b2b",
-      "israel",
-      "scale-up"
-    ],
+    "tags": ["marketing-manager", "b2b", "israel", "scale-up"],
     "postedDate": "2026-02-09",
     "type": "Scale-up",
     "verified": true
@@ -349,13 +247,7 @@
     "title": "Marketing Manager, Israel",
     "location": "Tel Aviv",
     "url": "https://www.taboola.com/careers/job/marketing-manager",
-    "tags": [
-      "marketing-manager",
-      "israel",
-      "geo-marketing",
-      "adtech",
-      "large-company"
-    ],
+    "tags": ["marketing-manager", "israel", "geo-marketing", "adtech", "large-company"],
     "postedDate": "2026-02-05",
     "type": "Large company",
     "verified": true
@@ -366,12 +258,7 @@
     "title": "Marketing Manager",
     "location": "Tel Aviv",
     "url": "https://www.jobsinforex.com/job/166375/marketing-manager/",
-    "tags": [
-      "marketing-manager",
-      "fintech",
-      "israel",
-      "large-company"
-    ],
+    "tags": ["marketing-manager", "fintech", "israel", "large-company"],
     "postedDate": "2026-02-03",
     "type": "Large company",
     "verified": true
@@ -382,13 +269,7 @@
     "title": "Senior Growth Marketing Manager",
     "location": "Tel Aviv",
     "url": "https://www.marketingmonk.so/jobboard/jobs/senior-growth-marketing-manager-at-monday-com-txcb8q",
-    "tags": [
-      "growth-marketing",
-      "demand-generation",
-      "saas",
-      "large-company",
-      "hybrid"
-    ],
+    "tags": ["growth-marketing", "demand-generation", "saas", "large-company", "hybrid"],
     "postedDate": "2026-02-01",
     "type": "Large company",
     "verified": true
@@ -399,12 +280,7 @@
     "title": "Senior Product Marketing Manager",
     "location": "Israel (Remote)",
     "url": "https://il.linkedin.com/jobs/view/senior-product-marketing-manager-hybrid-at-akamai-technologies-4368402954",
-    "tags": [
-      "product marketing",
-      "security",
-      "remote",
-      "Israel"
-    ],
+    "tags": ["product marketing", "security", "remote", "Israel"],
     "postedDate": "2026-02-02",
     "type": "Large company",
     "verified": true
@@ -415,12 +291,7 @@
     "title": "Senior Product Marketing Manager",
     "location": "Ramat Gan",
     "url": "https://il.linkedin.com/jobs/view/senior-product-marketing-manager-at-coralogix-4280178496",
-    "tags": [
-      "product-marketing",
-      "saas",
-      "observability",
-      "startup"
-    ],
+    "tags": ["product-marketing", "saas", "observability", "startup"],
     "postedDate": "2026-01-20",
     "type": "Startup",
     "verified": true
@@ -431,12 +302,7 @@
     "title": "Marketing Manager",
     "location": "Netanya",
     "url": "https://www.linkedin.com/jobs/view/marketing-manager-at-outbrain-4190466398",
-    "tags": [
-      "marketing-manager",
-      "adtech",
-      "israel",
-      "large-company"
-    ],
+    "tags": ["marketing-manager", "adtech", "israel", "large-company"],
     "postedDate": "2026-01-15",
     "type": "Large company",
     "verified": true
@@ -447,14 +313,7 @@
     "title": "Field Marketing Manager - EMEA TIPSA (Turkey, Israel, Poland, South Africa)",
     "location": "Israel",
     "url": "https://il.linkedin.com/jobs/view/field-marketing-manager-emea-tipsa-at-splunk-4184871070",
-    "tags": [
-      "field marketing",
-      "EMEA",
-      "Israel",
-      "demand generation",
-      "events",
-      "pipeline"
-    ],
+    "tags": ["field marketing", "EMEA", "Israel", "demand generation", "events", "pipeline"],
     "postedDate": "2025-12-01",
     "type": "Large company",
     "verified": true
