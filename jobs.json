@@ -1,0 +1,62 @@
+[
+  {
+    "id": "taboola-fmm-growth",
+    "company": "Taboola",
+    "title": "Field Marketing Manager, Growth",
+    "location": "Tel Aviv | Hybrid",
+    "url": "https://jobs.lhh.co.il/companies/taboola/jobs/46281767-field-marketing-manager-growth",
+    "tags": ["field-marketing", "events", "growth"],
+    "postedDate": "2026-03-01",
+    "type": "Large company",
+    "verified": true,
+    "screenshot": null
+  },
+  {
+    "id": "cycognito-events-fmm",
+    "company": "CyCognito",
+    "title": "Events & Field Marketing Manager",
+    "location": "Tel Aviv",
+    "url": "https://www.linkedin.com/jobs/view/4343237201",
+    "tags": ["field-marketing", "events", "cybersecurity"],
+    "postedDate": "2026-03-10",
+    "type": "Startup",
+    "verified": true,
+    "screenshot": null
+  },
+  {
+    "id": "classiq-fmm",
+    "company": "Classiq",
+    "title": "Field Marketing Manager",
+    "location": "Tel Aviv",
+    "url": "https://jobs.vertexventures.co.il/companies/classiq/jobs/69416474-field-marketing-manager",
+    "tags": ["field-marketing", "B2B", "quantum"],
+    "postedDate": "2026-03-06",
+    "type": "Startup",
+    "verified": true,
+    "screenshot": null
+  },
+  {
+    "id": "nebius-fmm",
+    "company": "Nebius",
+    "title": "Field Marketing Manager",
+    "location": "Tel Aviv",
+    "url": "https://il.linkedin.com/jobs/view/field-marketing-manager-at-nebius-4277532112",
+    "tags": ["field-marketing", "AI", "cloud"],
+    "postedDate": "2026-02-15",
+    "type": "Scale-up",
+    "verified": false,
+    "screenshot": null
+  },
+  {
+    "id": "oracle-fmm",
+    "company": "Oracle",
+    "title": "Field Marketing & Programs Specialist",
+    "location": "Petah Tikva",
+    "url": "https://il.linkedin.com/jobs/view/marketing-specialist-at-oracle-4069622342",
+    "tags": ["field-marketing", "enterprise"],
+    "postedDate": "2026-01-10",
+    "type": "Large company",
+    "verified": false,
+    "screenshot": null
+  }
+]
