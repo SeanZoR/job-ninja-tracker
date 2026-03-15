@@ -1,0 +1,43 @@
+[
+  {
+    "id": "monday-senior-growth-marketing-manager",
+    "company": "monday.com",
+    "title": "Senior Growth Marketing Manager",
+    "location": "Tel Aviv",
+    "url": "https://www.marketingmonk.so/jobboard/jobs/senior-growth-marketing-manager-at-monday-com-txcb8q",
+    "tags": [
+      "growth-marketing",
+      "demand-generation",
+      "saas",
+      "large-company",
+      "hybrid"
+    ],
+    "postedDate": "2026-02-01",
+    "type": "Large company",
+    "verified": true,
+    "removedReason": "URL page (marketingmonk.so) explicitly shows \"Job No Longer Available\" / \"This job listing may have been filled, removed, or expired.\" The listing URL is definitively dead/expired.",
+    "removedDate": "2026-03-15",
+    "verificationMethod": "Direct URL fetch showed expired job page with clear \"Job No Longer Available\" message"
+  },
+  {
+    "id": "splunk-field-marketing-manager-emea-tipsa",
+    "company": "Splunk (Cisco)",
+    "title": "Field Marketing Manager - EMEA TIPSA (Turkey, Israel, Poland, South Africa)",
+    "location": "Israel",
+    "url": "https://il.linkedin.com/jobs/view/field-marketing-manager-emea-tipsa-at-splunk-4184871070",
+    "tags": [
+      "field marketing",
+      "EMEA",
+      "Israel",
+      "demand generation",
+      "events",
+      "pipeline"
+    ],
+    "postedDate": "2025-12-01",
+    "type": "Large company",
+    "verified": true,
+    "removedReason": "Posted 2025-12-01 (104 days ago, exceeds 60-day threshold). LinkedIn returns HTTP 999 (bot-blocked, unverifiable). Tavily search found no recent evidence of the job being actively open in 2026. Per verification rules: over 60 days old AND no recent Tavily confirmation.",
+    "removedDate": "2026-03-15",
+    "verificationMethod": "Age check (>60 days) + Tavily search found no recent 2026 listings + direct URL unverifiable (LinkedIn bot protection)"
+  }
+]

@@ -344,23 +344,6 @@
     "verified": true
   },
   {
-    "id": "monday-senior-growth-marketing-manager",
-    "company": "monday.com",
-    "title": "Senior Growth Marketing Manager",
-    "location": "Tel Aviv",
-    "url": "https://www.marketingmonk.so/jobboard/jobs/senior-growth-marketing-manager-at-monday-com-txcb8q",
-    "tags": [
-      "growth-marketing",
-      "demand-generation",
-      "saas",
-      "large-company",
-      "hybrid"
-    ],
-    "postedDate": "2026-02-01",
-    "type": "Large company",
-    "verified": true
-  },
-  {
     "id": "akamai-senior-product-marketing-manager-israel",
     "company": "Akamai Technologies",
     "title": "Senior Product Marketing Manager",
@@ -405,24 +388,6 @@
       "large-company"
     ],
     "postedDate": "2026-01-15",
-    "type": "Large company",
-    "verified": true
-  },
-  {
-    "id": "splunk-field-marketing-manager-emea-tipsa",
-    "company": "Splunk (Cisco)",
-    "title": "Field Marketing Manager - EMEA TIPSA (Turkey, Israel, Poland, South Africa)",
-    "location": "Israel",
-    "url": "https://il.linkedin.com/jobs/view/field-marketing-manager-emea-tipsa-at-splunk-4184871070",
-    "tags": [
-      "field marketing",
-      "EMEA",
-      "Israel",
-      "demand generation",
-      "events",
-      "pipeline"
-    ],
-    "postedDate": "2025-12-01",
     "type": "Large company",
     "verified": true
   }
