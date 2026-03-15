@@ -16,23 +16,6 @@
     "verified": true
   },
   {
-    "id": "walkme-senior-pmm-ai",
-    "company": "WalkMe",
-    "title": "Senior Product Marketing Manager - AI",
-    "location": "Tel Aviv",
-    "url": "https://pitchmeai.com/jobs/walkme/senior-product-marketing-manager-ai-bxmz72louc",
-    "tags": [
-      "product-marketing",
-      "saas",
-      "ai",
-      "gtm",
-      "large-company"
-    ],
-    "postedDate": "2026-03-10",
-    "type": "Large company",
-    "verified": true
-  },
-  {
     "id": "papaya-global-senior-marketing-ai-operations-manager",
     "company": "Papaya Global",
     "title": "Senior Marketing and AI Operations Manager",
@@ -77,23 +60,6 @@
     ],
     "postedDate": "2026-03-06",
     "type": "Startup",
-    "verified": true
-  },
-  {
-    "id": "mixpanel-associate-field-marketing-manager-israel",
-    "company": "Mixpanel",
-    "title": "Associate Field Marketing Manager - Israel",
-    "location": "Tel Aviv",
-    "url": "https://builtin.com/job/associate-field-marketing-manager-israel/4411427",
-    "tags": [
-      "field-marketing",
-      "analytics",
-      "saas",
-      "israel",
-      "scale-up"
-    ],
-    "postedDate": "2026-03-05",
-    "type": "Scale-up",
     "verified": true
   },
   {
@@ -328,22 +294,6 @@
     "verified": true
   },
   {
-    "id": "etoro-marketing-manager",
-    "company": "eToro",
-    "title": "Marketing Manager",
-    "location": "Tel Aviv",
-    "url": "https://www.jobsinforex.com/job/166375/marketing-manager/",
-    "tags": [
-      "marketing-manager",
-      "fintech",
-      "israel",
-      "large-company"
-    ],
-    "postedDate": "2026-02-03",
-    "type": "Large company",
-    "verified": true
-  },
-  {
     "id": "akamai-senior-product-marketing-manager-israel",
     "company": "Akamai Technologies",
     "title": "Senior Product Marketing Manager",
@@ -373,22 +323,6 @@
     ],
     "postedDate": "2026-01-20",
     "type": "Startup",
-    "verified": true
-  },
-  {
-    "id": "outbrain-marketing-manager",
-    "company": "Outbrain (Teads)",
-    "title": "Marketing Manager",
-    "location": "Netanya",
-    "url": "https://www.linkedin.com/jobs/view/marketing-manager-at-outbrain-4190466398",
-    "tags": [
-      "marketing-manager",
-      "adtech",
-      "israel",
-      "large-company"
-    ],
-    "postedDate": "2026-01-15",
-    "type": "Large company",
     "verified": true
   }
 ]
