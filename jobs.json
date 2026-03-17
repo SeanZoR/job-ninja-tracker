@@ -1,5 +1,59 @@
 [
   {
+    "id": "wsc-sports-director-global-marketing",
+    "company": "WSC Sports",
+    "title": "Director of Global Marketing",
+    "location": "Ramat Gan",
+    "url": "https://wsc-sports.com/career/director-of-global-marketing",
+    "tags": [
+      "marketing-director",
+      "global-marketing",
+      "field-marketing",
+      "events",
+      "brand",
+      "sportstech",
+      "B2B"
+    ],
+    "postedDate": "2026-03-13",
+    "type": "Scale-up",
+    "verified": true
+  },
+  {
+    "id": "wolt-b2b-marketing-manager-israel",
+    "company": "Wolt Israel",
+    "title": "Wolt Benefits B2B Marketing Manager",
+    "location": "Tel Aviv",
+    "url": "https://careers.wolt.com/en/jobs/1/7518920",
+    "tags": [
+      "B2B-marketing",
+      "demand-generation",
+      "events",
+      "lead-gen",
+      "hr-tech",
+      "marketplace"
+    ],
+    "postedDate": "2026-03-14",
+    "type": "Large company",
+    "verified": true
+  },
+  {
+    "id": "monday-growth-marketing-manager",
+    "company": "monday.com",
+    "title": "Growth Marketing Manager",
+    "location": "Tel Aviv",
+    "url": "https://monday.com/careers/5B.36B",
+    "tags": [
+      "growth-marketing",
+      "demand-generation",
+      "SaaS",
+      "performance-marketing",
+      "large-company"
+    ],
+    "postedDate": "2026-03-15",
+    "type": "Large company",
+    "verified": true
+  },
+  {
     "id": "lightrun-senior-demand-generation-manager",
     "company": "Lightrun",
     "title": "Senior Demand Generation Manager",
