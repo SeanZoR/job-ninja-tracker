@@ -1,5 +1,101 @@
 [
   {
+    "id": "insait-marketing-lead",
+    "company": "Insait",
+    "title": "Marketing Lead",
+    "location": "Tel Aviv",
+    "url": "https://il.linkedin.com/jobs/view/marketing-lead-at-insait-4387285317",
+    "tags": [
+      "marketing-lead",
+      "demand-generation",
+      "ABM",
+      "events",
+      "fintech",
+      "AI",
+      "startup",
+      "B2B"
+    ],
+    "postedDate": "2026-03-21",
+    "type": "Startup",
+    "verified": true,
+    "notes": "First marketing hire. GenAI fintech for banks/lenders. Closing $17M Series A. Build marketing from scratch — ABM, events, roundtables, content. 7-10y B2B exp. Active on LinkedIn."
+  },
+  {
+    "id": "unixi-demand-generation-manager",
+    "company": "Unixi",
+    "title": "Demand Generation Manager",
+    "location": "Tel Aviv",
+    "url": "https://unixi.io/career/demand-generation-manager/",
+    "tags": [
+      "demand-generation",
+      "cybersecurity",
+      "identity-management",
+      "SaaS",
+      "startup",
+      "B2B"
+    ],
+    "postedDate": "2026-02",
+    "type": "Startup",
+    "verified": true,
+    "notes": "Active on company site. Cybersecurity/IAM startup. Closed on LinkedIn but still accepting via unixi.io"
+  },
+  {
+    "id": "komodor-regional-fmm-na",
+    "company": "Komodor",
+    "title": "Regional Field Marketing Manager (North America)",
+    "location": "Tel Aviv",
+    "url": "https://www.linkedin.com/jobs/view/4329733660",
+    "tags": [
+      "field-marketing",
+      "events",
+      "devops",
+      "kubernetes",
+      "startup",
+      "B2B"
+    ],
+    "postedDate": "2026-01",
+    "type": "Startup",
+    "verified": true,
+    "notes": "NA-focused role based in Tel Aviv. AI-powered SRE platform, $67M raised. LinkedIn closed, check komodor.com/careers"
+  },
+  {
+    "id": "priority-software-fmm",
+    "company": "Priority Software",
+    "title": "Field Marketing Manager",
+    "location": "Rosh HaAyin",
+    "url": "https://il.linkedin.com/jobs/view/field-marketing-manager-at-priority-software-4291772058",
+    "tags": [
+      "field-marketing",
+      "events",
+      "B2B",
+      "ERP",
+      "SaaS",
+      "Israel"
+    ],
+    "postedDate": "2026-03",
+    "type": "Large company",
+    "verified": true,
+    "notes": "Israeli ERP/SaaS company. Execute marketing plans, campaigns and events in Israel. 3+ years experience."
+  },
+  {
+    "id": "buildots-field-marketing-manager",
+    "company": "Buildots",
+    "title": "Field Marketing Manager",
+    "location": "Tel Aviv",
+    "url": "https://il.linkedin.com/jobs/view/field-marketing-manager-at-buildots-4240024034",
+    "tags": [
+      "field-marketing",
+      "construction-tech",
+      "B2B",
+      "startup",
+      "Israel"
+    ],
+    "postedDate": "2026-02",
+    "type": "Startup",
+    "verified": true,
+    "notes": "Construction tech startup. Own local Israel marketing efforts. Also in company-list.json."
+  },
+  {
     "id": "wsc-sports-director-global-marketing",
     "company": "WSC Sports",
     "title": "Director of Global Marketing",
@@ -363,5 +459,218 @@
     "postedDate": "2026-01-20",
     "type": "Startup",
     "verified": true
+  },
+  {
+    "id": "cardo-systems-field-marketing-manager",
+    "company": "Cardo Systems",
+    "title": "Field Marketing Manager",
+    "location": "Raanana",
+    "url": "https://www.glassdoor.com/Job/israel-field-marketing-jobs-SRCH_IL.0,6_IN119_KO7,22.htm",
+    "tags": [
+      "field-marketing",
+      "consumer-tech",
+      "global",
+      "Israel"
+    ],
+    "postedDate": "2026-03",
+    "type": "Scale-up",
+    "verified": false,
+    "notes": "Motorcycle communication systems. 3-5 years field marketing required. Reports to Director of Marketing. Global/regional initiatives."
+  },
+  {
+    "id": "nebius-field-marketing-manager-middle-east",
+    "company": "Nebius",
+    "title": "Field Marketing Manager - Middle East",
+    "location": "Tel Aviv",
+    "url": "https://il.linkedin.com/jobs/view/field-marketing-manager-at-nebius-4277532112",
+    "tags": [
+      "field-marketing",
+      "cloud",
+      "AI",
+      "Middle East",
+      "Israel"
+    ],
+    "postedDate": "2026-03",
+    "type": "Scale-up",
+    "verified": false,
+    "notes": "Build regional marketing engine for Middle East. Cloud/AI infrastructure company (Yandex spin-off). Remote-friendly. Posted ~8 days ago."
+  },
+  {
+    "id": "taboola-field-marketing-manager-growth",
+    "company": "Taboola",
+    "title": "Field Marketing Manager, Growth",
+    "location": "Tel Aviv",
+    "url": "https://il.linkedin.com/jobs/view/field-marketing-manager-growth-at-taboola-4160382985",
+    "tags": [
+      "field-marketing",
+      "growth",
+      "events",
+      "adtech",
+      "large-company"
+    ],
+    "postedDate": "2026-03",
+    "type": "Large company",
+    "verified": false,
+    "notes": "Data-driven event marketing. Different from existing Taboola Marketing Manager role — this is field marketing growth focused."
+  },
+  {
+    "id": "yl-ventures-digital-field-marketing-manager",
+    "company": "YL Ventures",
+    "title": "Digital and Field Marketing Manager (Temporary, 9 months)",
+    "location": "Israel",
+    "url": "https://il.linkedin.com/jobs/view/digital-and-field-marketing-manager-temporary-at-yl-ventures-4247918648",
+    "tags": [
+      "field-marketing",
+      "digital-marketing",
+      "VC",
+      "temporary",
+      "cybersecurity"
+    ],
+    "postedDate": "2026-03",
+    "type": "VC firm",
+    "verified": false,
+    "notes": "Cybersecurity-focused VC. 9-month temporary role. Digital + field marketing combo."
+  },
+  {
+    "id": "classiq-senior-global-demand-gen-manager",
+    "company": "Classiq",
+    "title": "Senior Manager, Global Demand Generation",
+    "location": "Tel Aviv",
+    "url": "https://www.linkedin.com/jobs/view/4341211474",
+    "tags": [
+      "demand-generation",
+      "quantum",
+      "deep-tech",
+      "ABM",
+      "events",
+      "B2B"
+    ],
+    "postedDate": "2026-03",
+    "type": "Startup",
+    "verified": false,
+    "notes": "Quantum computing startup. Build/scale global demand programs — paid media, ABM, webinars, events. 6+ years B2B enterprise SaaS/deep tech. Separate from their FMM role also open."
+  },
+  {
+    "id": "lema-ai-demand-generation-manager",
+    "company": "Lema AI",
+    "title": "Demand Generation Manager",
+    "location": "Tel Aviv",
+    "url": "https://www.marketingmonk.so/jobboard/jobs/demand-generation-manager-at-lema-ai-l80hae",
+    "tags": [
+      "demand-generation",
+      "AI",
+      "startup",
+      "hybrid"
+    ],
+    "postedDate": "2026-03-23",
+    "type": "Startup",
+    "verified": false,
+    "notes": "AI startup. Hybrid Tel Aviv. Posted ~2 days ago. Salary range $150k-$180k USD/year."
+  },
+  {
+    "id": "deepdub-demand-generation-manager-b2b",
+    "company": "Deepdub",
+    "title": "Demand Generation Manager (B2B)",
+    "location": "Tel Aviv",
+    "url": "https://il.linkedin.com/jobs/view/demand-generation-manager-b2b-at-deepdub-4372851068",
+    "tags": [
+      "demand-generation",
+      "AI",
+      "voice-tech",
+      "B2B",
+      "startup"
+    ],
+    "postedDate": "2026-02-17",
+    "type": "Startup",
+    "verified": false,
+    "notes": "AI voice dubbing technology. Hands-on builder scaling paid acquisition (LinkedIn/Google Ads). Insight Partners portfolio."
+  },
+  {
+    "id": "techsee-director-demand-generation",
+    "company": "TechSee",
+    "title": "Director of Demand Generation",
+    "location": "Herzliya",
+    "url": "https://www.linkedin.com/jobs/view/demand-generation-manager-at-techsee-4355746673",
+    "tags": [
+      "demand-generation",
+      "director",
+      "SaaS",
+      "AI",
+      "customer-experience"
+    ],
+    "postedDate": "2026-03",
+    "type": "Scale-up",
+    "verified": false,
+    "notes": "Visual AI for customer experience. Multi-channel demand generation campaigns. Director-level — more senior."
+  },
+  {
+    "id": "eko-demand-generation-manager",
+    "company": "eko",
+    "title": "Demand Generation Manager",
+    "location": "Tel Aviv",
+    "url": "https://jobs.lhh.co.il/companies/eko-com/jobs/50905458-demand-generation-manager",
+    "tags": [
+      "demand-generation",
+      "video-tech",
+      "startup",
+      "hybrid"
+    ],
+    "postedDate": "2026-03",
+    "type": "Startup",
+    "verified": false,
+    "notes": "Interactive video technology. Paid campaigns on Meta/LinkedIn/Google. Hybrid Tel Aviv."
+  },
+  {
+    "id": "yotpo-demand-generation-manager",
+    "company": "Yotpo",
+    "title": "Demand Generation Manager",
+    "location": "Tel Aviv",
+    "url": "https://jobs.vertexventures.co.il/companies/yotpo/jobs/40069023-demand-generation-manager",
+    "tags": [
+      "demand-generation",
+      "ecommerce",
+      "SaaS",
+      "scale-up"
+    ],
+    "postedDate": "2026-03",
+    "type": "Scale-up",
+    "verified": false,
+    "notes": "eCommerce marketing platform. Already in company-list.json. Vertex Ventures portfolio."
+  },
+  {
+    "id": "team8-stealth-ai-marketing-lead",
+    "company": "Team8 (AI Stealth Startup)",
+    "title": "Marketing Lead",
+    "location": "Tel Aviv",
+    "url": "https://il.linkedin.com/jobs/view/team8-ai-stealth-startup-marketing-lead-at-team8-4379178400",
+    "tags": [
+      "marketing-lead",
+      "AI",
+      "stealth",
+      "demand-generation",
+      "ABM",
+      "events",
+      "startup"
+    ],
+    "postedDate": "2026-01-26",
+    "type": "Startup",
+    "verified": false,
+    "notes": "Team8 portfolio stealth AI startup. First marketing hire. Hands-on: demand gen, paid/organic/ABM, content, events/community. Early-stage. Apply via jobs@lhh.co.il."
+  },
+  {
+    "id": "echo-field-marketing-manager-il",
+    "company": "Echo",
+    "title": "Field Marketing Manager (IL)",
+    "location": "Tel Aviv",
+    "url": "https://il.linkedin.com/jobs/field-marketing-jobs",
+    "tags": [
+      "field-marketing",
+      "Israel",
+      "B2B"
+    ],
+    "postedDate": "2026-03",
+    "type": "Unknown",
+    "verified": false,
+    "notes": "Limited details available. Found on LinkedIn field marketing search."
   }
 ]
