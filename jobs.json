@@ -1,5 +1,23 @@
 [
   {
+    "id": "cato-networks-demand-gen-manager",
+    "company": "Cato Networks",
+    "title": "Demand Generation Manager",
+    "location": "Tel Aviv",
+    "url": "https://uk.linkedin.com/jobs/view/demand-generation-manager-at-cato-networks-4378198835",
+    "tags": [
+      "demand-generation",
+      "cloud-security",
+      "SASE",
+      "B2B",
+      "cybersecurity"
+    ],
+    "postedDate": "2026-03-21",
+    "type": "Scale-up",
+    "verified": false,
+    "notes": "NEW. Posted ~6 days ago. Webinars, email, content syndication, ABM, marketing automation. 4+ years B2B demand gen. Separate from existing Customer Marketing Manager role."
+  },
+  {
     "id": "insait-marketing-lead",
     "company": "Insait",
     "title": "Marketing Lead",
@@ -583,7 +601,8 @@
     "postedDate": "2026-02-17",
     "type": "Startup",
     "verified": false,
-    "notes": "AI voice dubbing technology. Hands-on builder scaling paid acquisition (LinkedIn/Google Ads). Insight Partners portfolio."
+    "notes": "AI voice dubbing technology. Hands-on builder scaling paid acquisition (LinkedIn/Google Ads). Insight Partners portfolio. CLOSED as of 2026-03-27.",
+    "status": "closed"
   },
   {
     "id": "techsee-director-demand-generation",
